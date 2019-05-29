@@ -1,5 +1,13 @@
 /* All styles for your header Components live here */
 
+.HeaderContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin: 12px 7px 11px;
+}
+
 .HeaderContent {
     display: flex;
     flex-direction: column;
