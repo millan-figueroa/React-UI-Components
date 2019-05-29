@@ -1,1 +1,12 @@
 /* All styles for your header Components live here */
+
+.HeaderContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 4px 7px; 
+}
+
+.ImageThumbnail img {
+    width: 24px;
+}
